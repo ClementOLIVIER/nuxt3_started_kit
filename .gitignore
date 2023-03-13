@@ -7,6 +7,3 @@ dist
 
 # Development files (logs, caches, etc.)
 *.log
-
-# Lock files
-package-lock.json
