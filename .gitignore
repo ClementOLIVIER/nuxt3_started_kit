@@ -1,0 +1,12 @@
+# Node modules
+node_modules
+
+# Built files
+.nuxt
+dist
+
+# Development files (logs, caches, etc.)
+*.log
+
+# Lock files
+package-lock.json
